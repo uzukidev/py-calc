@@ -1,5 +1,5 @@
 # py-calc
-calculator app made using python :)
+calculator app made using python and tkinter :)
 
 ---------------
 ## Create Standalone Executable
